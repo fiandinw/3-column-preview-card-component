@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+html{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Big Shoulders Display', 'Times New Roman';
+    font-weight: 700;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.suvs{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+}
