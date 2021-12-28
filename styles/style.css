@@ -28,3 +28,11 @@ main{
 .luxury{
     background-color: hsl(179, 100%, 13%);
 }
+
+section:first-child{
+    border-radius: 1em 1em 0em 0em;
+}
+
+section:last-child{
+    border-radius: 0em 0em 1em 1em;
+}
