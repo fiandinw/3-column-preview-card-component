@@ -80,6 +80,7 @@ section button{
     color: inherit;
     font-weight: inherit;
     transition: all 0.4s;
+    cursor: pointer;
 }
 
 section button:hover{
@@ -87,7 +88,7 @@ section button:hover{
     color: white;
 }
 
-@media (min-width:376px) {
+@media (min-width:880px) {
     main{
         flex-direction: row;
         height: 90vh;
