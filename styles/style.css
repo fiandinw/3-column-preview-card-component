@@ -26,6 +26,7 @@ p{
 }
 
 main{
+    margin-top: 2em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -75,7 +76,7 @@ section button{
     border: solid 3px white;
     padding: 1em 2em;
     border-radius: 2em;
-    margin: 2em 0em;
+    margin: 2em 0em 0em 0em;
     font-family: inherit;
     color: inherit;
     font-weight: inherit;
