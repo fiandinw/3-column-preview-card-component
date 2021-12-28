@@ -73,7 +73,7 @@ section p{
 
 section button{
     background-color: hsl(0, 0%, 95%);
-    border: solid 3px white;
+    border: solid 3px hsl(0, 0%, 95%);
     padding: 1em 2em;
     border-radius: 2em;
     margin: 2em 0em 0em 0em;
